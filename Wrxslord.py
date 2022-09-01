@@ -925,7 +925,7 @@ def title():
     stdout.write("                   "+Fore.LIGHTGREEN_EX  +"    \/  \/ |_|  /_/\_\___/_|\___/|_|  \__,_|        \n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
-    stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTWHITE_EX   +"       Sever Discord : https://discord.gg/DD5aC5vt  "+Fore.LIGHTGREEN_EX  +"║\n")
+    stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTWHITE_EX   +"       Sever Discord : https://discord.gg/zVn7jpME  "+Fore.LIGHTGREEN_EX  +"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTWHITE_EX   +"       Copyright : Lê Minh Vũ (Wrxslord team)    "+Fore.LIGHTGREEN_EX  +" ║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTWHITE_EX   +"       Zalo Contact : 0916155950  "+Fore.LIGHTGREEN_EX  +"                  ║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTWHITE_EX   +"       Chọn Lệnh 'help' Để Tới Menu    "+Fore.LIGHTGREEN_EX +"             ║\n")
